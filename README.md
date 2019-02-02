@@ -1,5 +1,5 @@
 # www.icaim.co.in
-International Conference on Artificial Intelligence and Machine Learning 
+International Conference on Artificial Intelligence and Machine Learning <br>
 June 5-7
 Chandigarh Univeristy
 Events :
